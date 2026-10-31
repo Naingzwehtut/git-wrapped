@@ -70,8 +70,8 @@ for bad in "--nope" "--year abc" "--year" "/definitely/not/here" "--everyone=1";
     # shellcheck disable=SC2086
     set +e; (cd "$WORK/fx" && run_impl "$impl" $bad) > /dev/null 2>&1; codes+="$? "; set -e
   done
-  if [[ "$(echo $codes | tr ' ' '\n' | sort -u | wc -l)" == 1 && "${codes%% *}" != 0 ]]; then
-    printf "  ok    exit   %-22s (%s)\n" "$bad" "${codes% }"
+  # wc pads its output with spaces on macOS, so compare as a number
+  if (( $(echo $codes | tr ' ' '\n' | sort -u | wc -l) == 1 )) && [[ "${codes%% *}" != 0 ]]; then    printf "  ok    exit   %-22s (%s)\n" "$bad" "${codes% }"
   else
     printf "  FAIL  exit   %-22s (%s)\n" "$bad" "${codes% }"
     fails=$((fails + 1))
