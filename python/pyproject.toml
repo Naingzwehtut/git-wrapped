@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "git-wrapped"
+version = "0.1.0"
+description = "Your year in code, Spotify Wrapped style. Stats and a shareable card from any git repo."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+keywords = ["git", "cli", "wrapped", "stats", "year-in-review"]
+
+[project.urls]
+Homepage = "https://github.com/Naingzwehtut/git-wrapped"
+
+[project.scripts]
+git-wrapped = "git_wrapped.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

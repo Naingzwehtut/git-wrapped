@@ -1,0 +1,85 @@
+{
+  "year": 2020,
+  "author": "",
+  "everyone": false,
+  "repos": [
+    "app"
+  ],
+  "commits": 0,
+  "active_days": 0,
+  "lines_added": 0,
+  "lines_deleted": 0,
+  "files_touched": 0,
+  "busiest_day": {
+    "date": "",
+    "commits": 0
+  },
+  "busiest_weekday": "",
+  "busiest_hour": -1,
+  "longest_streak": {
+    "days": 0,
+    "start": "",
+    "end": ""
+  },
+  "weekdays": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "hours": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "months": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "top_languages": [],
+  "top_files": [],
+  "fix_commits": 0,
+  "longest_message": {
+    "length": 0,
+    "subject": ""
+  },
+  "personality": {
+    "id": "ghost",
+    "title": "The Ghost",
+    "description": "A mysterious and powerful silence."
+  }
+}

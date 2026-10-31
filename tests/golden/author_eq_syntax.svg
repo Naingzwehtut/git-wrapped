@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#26123f"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5fa2"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<circle cx="1110" cy="70" r="230" fill="#ff5fa2" opacity="0.10"/>
+<circle cx="1180" cy="610" r="170" fill="#7c5cff" opacity="0.16"/>
+<g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="64" y="88" fill="#ffb347" font-size="22" font-weight="700" letter-spacing="6">GIT WRAPPED</text>
+<text x="60" y="196" fill="url(#accent)" font-size="120" font-weight="800">2026</text>
+<text x="64" y="250" fill="#ffffff" font-size="34" font-weight="700">Naing Zwe Htut</text>
+<text x="64" y="286" fill="#9aa4b2" font-size="22">2 repos</text>
+<rect x="64" y="326" width="270" height="110" rx="18" fill="#ffffff" fill-opacity="0.06"/>
+<text x="88" y="384" fill="#ffffff" font-size="44" font-weight="800">28</text>
+<text x="88" y="416" fill="#9aa4b2" font-size="18">commits</text>
+<rect x="354" y="326" width="270" height="110" rx="18" fill="#ffffff" fill-opacity="0.06"/>
+<text x="378" y="384" fill="#ffffff" font-size="44" font-weight="800">24</text>
+<text x="378" y="416" fill="#9aa4b2" font-size="18">active days</text>
+<rect x="64" y="454" width="270" height="110" rx="18" fill="#ffffff" fill-opacity="0.06"/>
+<text x="88" y="512" fill="#ffffff" font-size="44" font-weight="800">14</text>
+<text x="88" y="544" fill="#9aa4b2" font-size="18">day streak</text>
+<rect x="354" y="454" width="270" height="110" rx="18" fill="#ffffff" fill-opacity="0.06"/>
+<text x="378" y="512" fill="#ffffff" font-size="44" font-weight="800">+263</text>
+<text x="378" y="544" fill="#9aa4b2" font-size="18">lines added</text>
+<text x="680" y="88" fill="#9aa4b2" font-size="18" font-weight="700" letter-spacing="4">YOU ARE</text>
+<text x="680" y="140" fill="url(#accent)" font-size="38" font-weight="800">The Night Owl</text>
+<text x="680" y="176" fill="#c9d1d9" font-size="20">Your best code happens after dark.</text>
+<text x="680" y="238" fill="#9aa4b2" font-size="16" font-weight="700" letter-spacing="3">WHEN YOU CODE</text>
+<rect x="680" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="699" y="326" width="13" height="24" rx="4" fill="url(#accent)"/>
+<rect x="718" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="737" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="756" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="775" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="794" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="813" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="832" y="338" width="13" height="12" rx="4" fill="url(#accent)"/>
+<rect x="851" y="332" width="13" height="18" rx="4" fill="url(#accent)"/>
+<rect x="870" y="340" width="13" height="10" rx="4" fill="url(#accent)"/>
+<rect x="889" y="340" width="13" height="10" rx="4" fill="url(#accent)"/>
+<rect x="908" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="927" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="946" y="340" width="13" height="10" rx="4" fill="url(#accent)"/>
+<rect x="965" y="340" width="13" height="10" rx="4" fill="url(#accent)"/>
+<rect x="984" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1003" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1022" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1041" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1060" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1079" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1098" y="347" width="13" height="3" rx="1.5" fill="#ffffff" fill-opacity="0.18"/>
+<rect x="1117" y="260" width="13" height="90" rx="4" fill="url(#accent)"/>
+<text x="680" y="374" fill="#6e7681" font-size="14">12am</text>
+<text x="794" y="374" fill="#6e7681" font-size="14">6am</text>
+<text x="908" y="374" fill="#6e7681" font-size="14">12pm</text>
+<text x="1022" y="374" fill="#6e7681" font-size="14">6pm</text>
+<text x="680" y="430" fill="#9aa4b2" font-size="16" font-weight="700" letter-spacing="3">TOP LANGUAGES</text>
+<text x="680" y="468" fill="#ffffff" font-size="20" font-weight="600">Go</text>
+<rect x="840" y="455" width="210" height="12" rx="6" fill="#ffffff" fill-opacity="0.10"/>
+<rect x="840" y="455" width="210" height="12" rx="6" fill="url(#accent)"/>
+<text x="1136" y="468" fill="#9aa4b2" font-size="18" text-anchor="end">65%</text>
+<text x="680" y="508" fill="#ffffff" font-size="20" font-weight="600">TypeScript</text>
+<rect x="840" y="495" width="210" height="12" rx="6" fill="#ffffff" fill-opacity="0.10"/>
+<rect x="840" y="495" width="35" height="12" rx="6" fill="url(#accent)"/>
+<text x="1136" y="508" fill="#9aa4b2" font-size="18" text-anchor="end">10%</text>
+<text x="680" y="548" fill="#ffffff" font-size="20" font-weight="600">Markdown</text>
+<rect x="840" y="535" width="210" height="12" rx="6" fill="#ffffff" fill-opacity="0.10"/>
+<rect x="840" y="535" width="21" height="12" rx="6" fill="url(#accent)"/>
+<text x="1136" y="548" fill="#9aa4b2" font-size="18" text-anchor="end">6%</text>
+<text x="64" y="604" fill="#6e7681" font-size="18">Get yours → github.com/Naingzwehtut/git-wrapped</text>
+</g>
+</svg>

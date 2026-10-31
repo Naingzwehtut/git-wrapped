@@ -1,0 +1,15 @@
+{
+  "name": "git-wrapped",
+  "version": "0.1.0",
+  "description": "Your year in code, Spotify Wrapped style. Stats and a shareable card from any git repo.",
+  "type": "module",
+  "bin": { "git-wrapped": "bin/git-wrapped.js" },
+  "files": ["bin", "src", "README.md"],
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node bin/git-wrapped.js" },
+  "keywords": ["git", "cli", "wrapped", "stats", "year-in-review"],
+  "repository": { "type": "git", "url": "git+https://github.com/Naingzwehtut/git-wrapped.git", "directory": "js" },
+  "homepage": "https://github.com/Naingzwehtut/git-wrapped",
+  "license": "MIT",
+  "dependencies": {}
+}

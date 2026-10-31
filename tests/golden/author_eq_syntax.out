@@ -1,0 +1,50 @@
+
+  ★ GIT WRAPPED 2026 ★
+  Naing Zwe Htut · 2 repos
+
+  28 commits          on 24 active days
+  +263 / -40          lines added / deleted
+  14 days             longest streak (Mar 1 – Mar 14)
+  Tuesday             busiest weekday
+  11 PM               busiest hour
+  Mar 10              busiest day (5 commits)
+
+  When you code
+  Mon ████████████████░░░░░░░░ 4
+  Tue ████████████████████████ 6
+  Wed ████████████████░░░░░░░░ 4
+  Thu ████████████░░░░░░░░░░░░ 3
+  Fri ████████░░░░░░░░░░░░░░░░ 2
+  Sat ████████████████░░░░░░░░ 4
+  Sun ████████████████████░░░░ 5
+
+  Hours   ▂      ▁▂▁▁  ▁▁       █
+         0     6     12    18
+  Months  ▁█  ▂▁▁▁  ▁
+         JFMAMJJASOND
+
+  Top languages
+  Go           ████████████████████  65%
+  TypeScript   ███░░░░░░░░░░░░░░░░░  10%
+  Markdown     ██░░░░░░░░░░░░░░░░░░   6%
+  Python       █░░░░░░░░░░░░░░░░░░░   5%
+  CSS          █░░░░░░░░░░░░░░░░░░░   3%
+
+  Most edited files
+  1. app/src/main.go (16 commits)
+  2. app/src/util.go (4 commits)
+  3. app/web/app.ts (2 commits)
+  4. app/.env.example (1 commit)
+  5. app/Dockerfile (1 commit)
+
+  Fun facts
+  · 4 of 28 commit messages mention fix or bug
+  · 11 files touched across 2 repos
+  · Longest commit message: 86 characters
+    "Refactor: remove dead code from the main loop, it was never…"
+
+  You are THE NIGHT OWL
+  Your best code happens after dark.
+
+  Make your share card:  git-wrapped --svg wrapped.svg
+

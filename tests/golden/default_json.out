@@ -1,0 +1,132 @@
+{
+  "year": 2026,
+  "author": "Naing Zwe Htut",
+  "everyone": false,
+  "repos": [
+    "app"
+  ],
+  "commits": 26,
+  "active_days": 22,
+  "lines_added": 235,
+  "lines_deleted": 40,
+  "files_touched": 9,
+  "busiest_day": {
+    "date": "2026-03-10",
+    "commits": 5
+  },
+  "busiest_weekday": "Tuesday",
+  "busiest_hour": 23,
+  "longest_streak": {
+    "days": 14,
+    "start": "2026-03-01",
+    "end": "2026-03-14"
+  },
+  "weekdays": [
+    3,
+    6,
+    4,
+    3,
+    2,
+    4,
+    4
+  ],
+  "hours": [
+    0,
+    4,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15
+  ],
+  "months": [
+    0,
+    0,
+    18,
+    0,
+    0,
+    3,
+    1,
+    2,
+    1,
+    0,
+    0,
+    1
+  ],
+  "top_languages": [
+    {
+      "name": "Go",
+      "lines": 196,
+      "percent": 71
+    },
+    {
+      "name": "TypeScript",
+      "lines": 33,
+      "percent": 12
+    },
+    {
+      "name": "Markdown",
+      "lines": 20,
+      "percent": 7
+    },
+    {
+      "name": "CSS",
+      "lines": 12,
+      "percent": 4
+    },
+    {
+      "name": "Rust",
+      "lines": 8,
+      "percent": 2
+    }
+  ],
+  "top_files": [
+    {
+      "path": "src/main.go",
+      "commits": 16
+    },
+    {
+      "path": "src/util.go",
+      "commits": 4
+    },
+    {
+      "path": "web/app.ts",
+      "commits": 2
+    },
+    {
+      "path": ".env.example",
+      "commits": 1
+    },
+    {
+      "path": "Dockerfile",
+      "commits": 1
+    }
+  ],
+  "fix_commits": 4,
+  "longest_message": {
+    "length": 86,
+    "subject": "Refactor: remove dead code from the main loop, it was never called by anything anymore"
+  },
+  "personality": {
+    "id": "night_owl",
+    "title": "The Night Owl",
+    "description": "Your best code happens after dark."
+  }
+}

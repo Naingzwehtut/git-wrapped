@@ -1,0 +1,133 @@
+{
+  "year": 2026,
+  "author": "All contributors",
+  "everyone": true,
+  "repos": [
+    "app",
+    "tools"
+  ],
+  "commits": 31,
+  "active_days": 27,
+  "lines_added": 295,
+  "lines_deleted": 40,
+  "files_touched": 12,
+  "busiest_day": {
+    "date": "2026-03-10",
+    "commits": 5
+  },
+  "busiest_weekday": "Tuesday",
+  "busiest_hour": 23,
+  "longest_streak": {
+    "days": 14,
+    "start": "2026-03-01",
+    "end": "2026-03-14"
+  },
+  "weekdays": [
+    4,
+    7,
+    4,
+    4,
+    3,
+    4,
+    5
+  ],
+  "hours": [
+    0,
+    4,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    3,
+    2,
+    2,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    15
+  ],
+  "months": [
+    0,
+    3,
+    18,
+    2,
+    0,
+    3,
+    1,
+    2,
+    1,
+    0,
+    0,
+    1
+  ],
+  "top_languages": [
+    {
+      "name": "Go",
+      "lines": 196,
+      "percent": 58
+    },
+    {
+      "name": "Python",
+      "lines": 50,
+      "percent": 15
+    },
+    {
+      "name": "TypeScript",
+      "lines": 33,
+      "percent": 9
+    },
+    {
+      "name": "Markdown",
+      "lines": 20,
+      "percent": 6
+    },
+    {
+      "name": "CSS",
+      "lines": 12,
+      "percent": 3
+    }
+  ],
+  "top_files": [
+    {
+      "path": "app/src/main.go",
+      "commits": 16
+    },
+    {
+      "path": "app/src/util.go",
+      "commits": 4
+    },
+    {
+      "path": "app/lib/parser.py",
+      "commits": 2
+    },
+    {
+      "path": "app/web/app.ts",
+      "commits": 2
+    },
+    {
+      "path": "tools/scripts/report.py",
+      "commits": 2
+    }
+  ],
+  "fix_commits": 5,
+  "longest_message": {
+    "length": 86,
+    "subject": "Refactor: remove dead code from the main loop, it was never called by anything anymore"
+  },
+  "personality": {
+    "id": "night_owl",
+    "title": "The Night Owl",
+    "description": "Your best code happens after dark."
+  }
+}

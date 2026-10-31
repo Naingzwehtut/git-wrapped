@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
+
+# Node
+node_modules/
+
+# Go
+/go/git-wrapped
+/git-wrapped
+
+# Tests / local output
+tests/.fixture/
+wrapped.svg
+wrapped.png
+.DS_Store
